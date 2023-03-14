@@ -28,22 +28,19 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 ### Requirements 
 
-- [x] 2-step verification in google account (target email) - [Link](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome)
-- [x] share the `app password` (for google's security reasons) 
-- [x] turn on 'status : IMAP' from mail settings under : `Forwarding and POP/IMAP` - [Link](https://mail.google.com/mail/u/0/#settings/fwdandpop)
+- Please refer to the `requirements.txt` for dependencies. 
+- Run this command in terminal to install the require : `pip install -r requirements.txt`
 
-### Features
+### Applications 
 
-- ✒️ automating blogs/news writing as soon as you get an mail
-- ⭐ ask chatbot to do custom work on the bases of the mail
-- 📟 complete access to your mail and automate (title, body, time, sender, number of sender)
-- ⚙️ fully customized attributes depending on the requirements
+- ✒️ [cool-odd]() : automating blogs/news writing as soon as you get an mail
+- ⭐ [custom-chatbot] : ask chatbot to do custom work on the bases of the task (eg. lawyear, pharmacist, script writer) 
+- 📟 [whisper-speech-text] : OpenAI's anoher API to convert text from audio
+- ⚙️ [finetuned-gpt] : Train chatGPT on your custom data & ask queries from that data
 
-### Input Attributes 
+### Further Readings
 
-- **how_many :** how many unseen mails you want to check (default : 10)
-- **maxtoken :** what is the maximum number of charecters you want in your blog (default : 200 characters)
-- **what_to_ask :** what do you want to ask chatgpt to do (default : write an blog about)
-- **num_target :** number of targeted emails (default : None)
+- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
 
 
