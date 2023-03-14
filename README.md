@@ -2,8 +2,6 @@
 <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/apg2.png" width="850">
 </h4>
 
-
-<br>
   
 <p><pre align="center">
 <strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple/Nike.meow!​</a></pre></p>
