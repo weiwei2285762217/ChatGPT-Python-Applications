@@ -1,7 +1,6 @@
 <h1 align="center">
-<img src="https://github.com/xiaowuc2/cool-odd/blob/main/source/abc.png" width="150">
+<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/apg2.png" width="850">
 </h1>
-
 
 ### What is it?
 
