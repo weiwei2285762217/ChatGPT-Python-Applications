@@ -35,4 +35,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 - [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
 - [computational-thinking:python]() : My python course for Anyone who's willing to crack coding interviews (LeetCode). (Recorded/1:1)
 
+### Contact me 
 
+- Linkedin : [@xiaowuc2]()
+- email : ```rohitmandal814566@gmail.com```
