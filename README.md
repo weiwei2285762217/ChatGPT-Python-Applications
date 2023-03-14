@@ -6,7 +6,6 @@
 <p><pre align="center">
 <strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple/Nike.meow!​</a></pre></p>
 
-<br>
 
 ### What is it?
 
