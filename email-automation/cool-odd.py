@@ -28,7 +28,7 @@ with open("pass.yml") as f:
 # from credentials.yml import user name and password
 my_credentials = yaml.load(content, Loader=yaml.FullLoader)
 user, password = my_credentials["user"], my_credentials["password"]
-openai.api_key = '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'
+openai.api_key = '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' #my_credentials["api"] 
 
 # Login to the email server
 server = "imap.gmail.com"
