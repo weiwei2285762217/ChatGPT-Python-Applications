@@ -13,7 +13,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 <br>
   
 <p><pre align="center">
-<strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
+<strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple/Nike.meow!​</a></pre></p>
 
 <br>
 
@@ -21,6 +21,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 - Please refer to the `requirements.txt` for dependencies. 
 - Run this command in terminal to install the require : `pip install -r requirements.txt`
+- Do you like cats? If don't then the code will not run! 
 
 ### Applications 
 
