@@ -34,9 +34,9 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 ### Applications 
 
 - ✒️ [cool-odd]() : automating blogs/news writing as soon as you get an mail
-- ⭐ [custom-chatbot] : ask chatbot to do custom work on the bases of the task (eg. lawyear, pharmacist, script writer) 
-- 📟 [whisper-speech-text] : OpenAI's anoher API to convert text from audio
-- ⚙️ [finetuned-gpt] : Train chatGPT on your custom data & ask queries from that data
+- ⭐ [custom-chatbot]() : ask chatbot to do custom work on the bases of the task (eg. lawyear, pharmacist, script writer) 
+- 📟 [whisper-speech-text]() : OpenAI's anoher API to convert text from audio
+- ⚙️ [finetuned-gpt]() : Train chatGPT on your custom data & ask queries from that data
 
 ### Further Readings
 
