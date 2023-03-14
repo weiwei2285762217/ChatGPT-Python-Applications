@@ -1,6 +1,14 @@
-<h1 align="center">
+<h4 align="center">
 <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/apg2.png" width="850">
-</h1>
+</h4>
+
+
+<br>
+  
+<p><pre align="center">
+<strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple/Nike.meow!​</a></pre></p>
+
+<br>
 
 ### What is it?
 
@@ -10,12 +18,6 @@ The applications in this repository are designed to showcase the versatility and
 
 Overall, the "ChatGPT Python Applications" repository is a valuable resource for developers looking to integrate ChatGPT into their projects or explore the potential of natural language processing with Python.
 
-<br>
-  
-<p><pre align="center">
-<strong>Watch video demo + explanation  : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple/Nike.meow!​</a></pre></p>
-
-<br>
 
 ### Requirements 
 
