@@ -2,7 +2,6 @@
 <img src="https://github.com/xiaowuc2/cool-odd/blob/main/source/abc.png" width="150">
 </h1>
 
-
 ### What is it?
 
 **cool-odd** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
