@@ -26,10 +26,9 @@ Refer to this [video]() to install the dependencies and generate OpenAI keys and
 ### Features
 
 - ✒️ give internet access to ChatGPT
-- ⭐ 
-- 📟 
-- ⚙️ fully customized attributes depending on the requirements
+- ⭐ Google Colab Link : [chatbot-colab](https://colab.research.google.com/drive/1-irHRZEUCbfon_gO8MIfnvZpwZ9CnJqR?usp=sharing)
 - ✨ google Colab keeps the service running for 72 hours (for free)
+- ⚙️ fully customized attributes depending on the requirements
 
 <br>
 
