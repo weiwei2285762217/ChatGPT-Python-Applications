@@ -4,7 +4,7 @@
 
   
 <p><pre align="center">
-<strong>Watch video demo + explanation : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Apple.meow!​</a></pre></p>
+<strong>Watch video demo + explanation : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Meow!​</a></pre></p>
 
 ### What is it?
 
