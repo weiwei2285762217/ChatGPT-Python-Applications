@@ -37,7 +37,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 ### Contributing
 
-##### If you would like to contribute more Applications, please follow these guidelines:
+If you would like to contribute more Applications, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch with your feature or bug fix.
