@@ -14,6 +14,7 @@ The applications in this repository are designed to showcase the versatility and
 
 Overall, the "ChatGPT Python Applications" repository is a valuable resource for developers looking to integrate ChatGPT into their projects or explore the potential of natural language processing with Python.
 
+<br>
 
 ### Requirements 
 
@@ -28,6 +29,18 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 - 📟 [whisper-speech-text]() : OpenAI's anoher API to convert text from audio
 - ⚙️ [finetuned-gpt]() : Train chatGPT on your custom data & ask queries from that data
 
+
+
+
+### Contributing
+
+If you would like to contribute more Applications, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch with your feature or bug fix.
+3. Commit your changes and push to your fork.
+4. Create a pull request.
+
 ### Further Readings
 
 - [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
@@ -36,5 +49,5 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 ### Contact me 
 
-- Linkedin : [@xiaowuc2]()
-- email : ```rohitmandal814566@gmail.com```
+- Linkedin : [@xiaowuc2](https://www.linkedin.com/in/xiaowuc2/)
+- email : [rohitmandal814566@gmail.com](mailto:rohitmandal814566@gmail.com)
