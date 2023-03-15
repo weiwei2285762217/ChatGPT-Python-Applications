@@ -28,5 +28,3 @@
 - **maxtoken :** what is the maximum number of charecters you want in your blog (default : 200 characters)
 - **what_to_ask :** what do you want to ask chatgpt to do (default : write an blog about)
 - **num_target :** number of targeted emails (default : None)
-
-
