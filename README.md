@@ -51,4 +51,4 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 - [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
 - [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
 - [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : rohitmandal814566@gmail.com
+- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
