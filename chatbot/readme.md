@@ -15,7 +15,7 @@ This chatbot integrated with OpenAI ChatGPT API using Python, is a conversationa
 
 Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. I've articulated the steps in text format here : 
 
-- start this repo
+- start this repository
 - Install the dependencies of this repository 
 - Paste your OpenAI API keys in `pass.yml` file
 
