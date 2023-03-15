@@ -1,8 +1,6 @@
 import openai
 import gradio as gr
 
-#openai.api_key = "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"
-
 # Reading private yml file
 with open("pass.yml") as f:
     content = f.read()
