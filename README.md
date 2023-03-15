@@ -36,11 +36,12 @@ Refer to this [setup video]() to install the dependencies and generate OpenAI ke
 Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects! 
 Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
 
-- ✒️ [email-automation]() : Tool to automate automate news briefing and blogging from custom senders (mail) 
-- ⭐ [custom-chatbot]() : ask chatbot to do custom work on the bases of the task (eg. script writer) 
-- 📟 [whisper-speech-text]() : OpenAI's anoher API to convert text from audio
-- ⚙️ [finetuned-gpt]() : Train chatGPT on your custom data & ask queries from that data
-- 💠 [voice-assistant]() : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
+- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
+- ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. script writer) 
+- 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's anoher API to convert text from audio
+- ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
+- 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
+- ⌚ [your-prespective]() : 
 
 
 <br>
