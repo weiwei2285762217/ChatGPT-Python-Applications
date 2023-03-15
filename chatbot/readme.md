@@ -10,11 +10,20 @@
 
 This chatbot integrated with OpenAI ChatGPT API using Python, is a conversational agent that can interact with users in natural language. It uses the power of machine learning and natural language processing to understand user inputs and generate appropriate responses. It can provide users with a personalized and natural conversational experience.
 
-### Requirements 
+### Setup
 
-- [x] 2-step verification in google account (target email) - [Link](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome)
-- [x] share the `app password` (for google's security reasons) 
-- [x] turn on 'status : IMAP' from mail settings under : `Forwarding and POP/IMAP` - [Link](https://mail.google.com/mail/u/0/#settings/fwdandpop)
+
+Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. I've articulated the steps in text format here : 
+
+
+- Install the dependencies following these steps : 
+```
+1. Star this repository (top right corner) 
+2. <>Code > Download ZIP > Open cmd/terminal in that location
+3. Run this command : `pip install -r requirements.txt`
+```
+- Paste your OpenAI API keys in `pass.yml` file
+
 
 ### Features
 
