@@ -2,17 +2,12 @@
 <img src="https://github.com/xiaowuc2/cool-odd/blob/main/source/abc.png" width="150">
 </h1>
 
+<p><pre align="center">
+<strong>Watch a video demo : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
 ### What is it?
 
 **cool-odd** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
-
-<br>
-  
-<p><pre align="center">
-<strong>Watch a video demo : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
-
-<br>
 
 ### Requirements 
 
@@ -35,3 +30,23 @@
 - **num_target :** number of targeted emails (default : None)
 
 
+### Contributing
+
+If you would like to contribute more Applications, please follow these guidelines:
+
+ 
+1. Fork the repository.
+2. Create a new branch with your feature or bug fix.
+3. Commit your changes and push to your fork.
+4. Create a pull request.
+5. Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
+
+
+<br>
+
+### Further Readings
+
+- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
+- [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
