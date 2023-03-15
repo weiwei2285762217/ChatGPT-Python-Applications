@@ -7,7 +7,7 @@
 
 ### What is it?
 
-**cool-odd** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
+**email-automation** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
 
 ### Requirements 
 
