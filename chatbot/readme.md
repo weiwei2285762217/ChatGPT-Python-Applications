@@ -10,6 +10,8 @@
 
 This chatbot integrated with OpenAI ChatGPT API using Python, is a conversational agent that can interact with users in natural language. It uses the power of machine learning and natural language processing to understand user inputs and generate appropriate responses. It can provide users with a personalized and natural conversational experience.
 
+<br>
+
 ### Setup
 
 
@@ -19,6 +21,7 @@ Refer to this [video]() to install the dependencies and generate OpenAI keys and
 - Install the dependencies of this repository 
 - Paste your OpenAI API keys in `pass.yml` file
 
+<br>
 
 ### Features
 
@@ -27,13 +30,7 @@ Refer to this [video]() to install the dependencies and generate OpenAI keys and
 - 📟 complete access to your mail and automate (title, body, time, sender, number of sender)
 - ⚙️ fully customized attributes depending on the requirements
 
-### Input Attributes 
-
-- **how_many :** how many unseen mails you want to check (default : 10)
-- **maxtoken :** what is the maximum number of charecters you want in your blog (default : 200 characters)
-- **what_to_ask :** what do you want to ask chatgpt to do (default : write an blog about)
-- **num_target :** number of targeted emails (default : None)
-
+<br>
 
 ### Contributing
 
