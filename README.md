@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/ss.png" width="850">
+<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/apg2.png" width="850">
 </h4>
 
   
