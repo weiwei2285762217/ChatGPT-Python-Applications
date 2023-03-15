@@ -42,7 +42,7 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
 - 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
 - ⌚ [your-prespective]() : You can train ChatGPT to perceive things the way you do, and it will imitate you!
-- 📖 [gita-gpt]() : 
+- 📖 [bhagavad-gita-gpt]() : A religious book which contains all the answers to find our purpose and to live it fully. 
 
 <br>
 
