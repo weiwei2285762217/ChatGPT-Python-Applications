@@ -46,7 +46,7 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 
 <br>
 
-⚠️ Few applications are under development, will upload the codes asap! you can `⭐` this repo / sub to this [channel]()  to get the updates.
+⚠️ Few applications are under development, will upload the codes asap! you can `⭐` this repo / sub to this [channel](https://www.youtube.com/@qxresearch/)  to get the updates.
 
 <br>
 
