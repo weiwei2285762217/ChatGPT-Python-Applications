@@ -16,12 +16,18 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 <br>
 
-### Requirements 
+### Setup 
 
-- Please refer to the `requirements.txt` for dependencies. 
-- Run this command in terminal to install the required modules : `pip install -r requirements.txt`
-- Paste your OpenAI API keys in `pass.yml` file. ( How to get API keys? : [Video]() )
-- star this repository(top right corner) in order to access the api used in this repository 
+Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications.  
+
+- Please refer to the `requirements.txt` for dependencies
+- To install the dependencies follow these steps : 
+```
+1. Star this repository (top right corner) 
+2. <>Code > Download ZIP > Open cmd/terminal in that location
+2. Run this command : `pip install -r requirements.txt`
+```
+- Paste your OpenAI API keys in `pass.yml` file
 
 <br>
 
