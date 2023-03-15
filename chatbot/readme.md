@@ -1,6 +1,6 @@
 ### What is it?
 
-**cool-odd** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
+This chatbot integrated with OpenAI ChatGPT API using Python, is a conversational agent that can interact with users in natural language. It uses the power of machine learning and natural language processing to understand user inputs and generate appropriate responses. It can provide users with a personalized and natural conversational experience.
 
 <br>
 
