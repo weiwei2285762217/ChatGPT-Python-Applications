@@ -19,7 +19,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 ### Requirements 
 
 - Please refer to the `requirements.txt` for dependencies. 
-- Run this command in terminal to install the require : `pip install -r requirements.txt`
+- Run this command in terminal to install the required modules : `pip install -r requirements.txt`
 - Do you like cats? If don't then the code will not run! 
 
 <br>
@@ -37,7 +37,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 ### Contributing
 
-If you would like to contribute more Applications, please follow these guidelines:
+##### If you would like to contribute more Applications, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch with your feature or bug fix.
@@ -51,10 +51,4 @@ If you would like to contribute more Applications, please follow these guideline
 - [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
 - [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
 - [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-
-<br>
-
-### Contact me 
-
-- Linkedin : [@xiaowuc2](https://www.linkedin.com/in/xiaowuc2/)
-- email : [rohitmandal814566@gmail.com](mailto:rohitmandal814566@gmail.com)
+- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : rohitmandal814566@gmail.com
