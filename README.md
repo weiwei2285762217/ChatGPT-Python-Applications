@@ -45,7 +45,7 @@ If you would like to contribute more Applications, please follow these guideline
 4. Create a pull request.
 
 > **Note**
-> Before pull requrest makesure you've created a seperate folder with `readme.md` and updathe the `main/readme.md`
+> Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
  
 <br>
 
