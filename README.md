@@ -41,8 +41,8 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 - 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's anoher API to convert text from audio
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data
 - 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
-- ⌚ [your-prespective]() : You can train ChatGPT to perceive things the way you do, and it will imitate you!
-- 📖 [bhagavad-gita-gpt]() : A religious book which contains all the answers to find our purpose and to live it fully. 
+- ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
+- 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully. 
 
 <br>
 
