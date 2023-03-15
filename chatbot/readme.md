@@ -25,11 +25,11 @@ Refer to this [video]() to install the dependencies and generate OpenAI keys and
 
 ### Features
 
-- ✒️ automating blogs/news briefing as soon as you get an mail
-- ⭐ ask chatbot to do custom work on the bases of the mail
-- 📟 complete access to your mail and automate (title, body, time, sender, number of sender)
+- ✒️ give internet access to ChatGPT
+- ⭐ 
+- 📟 
 - ⚙️ fully customized attributes depending on the requirements
-
+- ✨ google Colab keeps the service running for 72 hours (for free)
 
 <br>
 
