@@ -25,6 +25,9 @@ Refer to this [video]() to install the dependencies and generate OpenAI keys and
 
 ### Features
 
+Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects/updates! 
+Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
+
 - ✒️ give internet access to ChatGPT
 - ⭐ Google Colab Link : [chatbot-colab](https://colab.research.google.com/drive/1-irHRZEUCbfon_gO8MIfnvZpwZ9CnJqR?usp=sharing)
 - ✨ google Colab keeps the service running for 72 hours (for free)
