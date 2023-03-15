@@ -39,14 +39,14 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 If you would like to contribute more Applications, please follow these guidelines:
 
+ 
 1. Fork the repository.
 2. Create a new branch with your feature or bug fix.
 3. Commit your changes and push to your fork.
 4. Create a pull request.
+5. Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
 
-> **Note**
-> Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
- 
+
 <br>
 
 ### Further Readings
