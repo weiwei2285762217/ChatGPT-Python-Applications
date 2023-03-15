@@ -18,7 +18,7 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 ### Setup 
 
-Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications.  
+Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. I've articulated the steps in text format here : 
 
 - Please refer to the `requirements.txt` for dependencies
 - To install the dependencies follow these steps : 
