@@ -6,7 +6,6 @@
 <p><pre align="center">
 <strong>Watch video demo + explanation : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Nike.meow!​</a></pre></p>
 
-
 ### What is it?
 
 The GitHub repository titled "ChatGPT Python Applications" is a comprehensive collection of Python applications built around the ChatGPT language model. This repository contains multiple standalone applications, each demonstrating different use cases and applications of the ChatGPT model.
